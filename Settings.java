@@ -47,7 +47,7 @@ public class GirişEkranı extends JPanel implements ActionListener {
     JTextField cninhamlemaliyeti = new JTextField();
     JTextField dninhedefmaliyeti = new JTextField();
     JTextField dninhamlemaliyeti = new JTextField();
-    ImageIcon img1 = new ImageIcon(new ImageIcon("H:\\masaüstü\\yazlab\\altıntoplama6.jpg").getImage().getScaledInstance(1920, 1080, Image.SCALE_SMOOTH));
+    ImageIcon img1 = new ImageIcon(new ImageIcon("H:\\masaüstü\\yazlab\\background.jpg").getImage().getScaledInstance(1920, 1080, Image.SCALE_SMOOTH));
     JLabel arkaplan;
     JPanel ayarlar;
     JButton ayarlaragir, ayarkaydet;
